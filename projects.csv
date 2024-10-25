@@ -1,0 +1,23 @@
+GROUP   ;   P_NAME  ;   P_NO    ;  P_TYPE   ;   P_LONGNAME  ;   FA_NAME ;   FA_LONGNAME ;   P_START ;   P_END   ;   P_HIDDEN
+Dept_A  ;   DINO    ;   qOCsrQGh9a   ;   grant   ;   Dynamic Intelligent Network Optimization ;   IA1   ;   International Funding Agency 1   ;   2025-11-01  ;   2029-10-31  ;
+Dept_B  ;   QECS  ;   LOLWHAT 60-19415    ;   grant   ; Quantum-Empowered Computing Systems ;   IRP  ;   Internal Research Programs    ;    ;  ;
+Dept_A  ;   ADSC   ;   FRMNY 3303   ;   research unit   ;   Adaptive Data Security for Smart Cities    ;   NRF ;   National Research Foundation  ;   2025-01-01  ;   2028-12-31  ;
+Dept_C  ;   BINA ;   7589715140   ;   grant   ;   Bio-inspired Neural Augmentation  ;   IA1   ;   International Funding Agency 1 ;   2024-03-01  ;   2028-02-28    ;
+Dept_B  ;   ETIE    ;   0469714754   ;   grant   ;   Efficient Transmission in IoT Environments   ;   IA1   ;   International Funding Agency 1   ;   2023-12-01  ;   2027-11-30  ;
+Dept_B  ;   VEPS  ;   VCCEM2PI  ;   grant   ;   Virtualized Edge Processing Solutions  ;   IA2 ;   International Funding Agency 2 ;   2022-04-01  ;   2026-03-31  ;
+Dept_D  ;   HACAT    ;   ;   research unit   ;   Human-AI Collaborative Analysis Tools    ;   ;   ;   2024-07-01  ;   2026-01-31  ;   non_public
+Dept_D  ;   SPORT    ; UDGHJJ5P   ;   grant   ;   Sustainable Power for Renewable Technologies ;   FMAR    ;   Federal Ministry for Awesome Research    ;   2022-12-01  ;   2025-11-30   ;
+Dept_D  ;   ANSA    ;   19F2204B    ;   grant   ;   Autonomous Network Sensing and Analysis   ;   FMRR    ;   Federal Ministry for Reproducible Research  ;   2022-12-01  ;   2025-11-30  ;
+Dept_C  ;   PATHS    ;   7DUWRRHWI    ;   grant   ;   Predictive Analytics in Health Systems    ;   FMAR    ;   Federal Ministry for Awesome Research    ;   2022-11-01  ;   2024-10-31  ; old
+Dept_B  ;   SGRO  ;   JFGUOLRPJ ;   grant   ;   Smart Grid Reliability Optimization    ; FMWW  ;   Federal Ministry of Wizards and Wisdom  ;   2022-09-01  ;   2024-08-31   ; old
+Dept_D  ;   ARIM   ;   ;   research unit   ;   Augmented Reality for Intelligent Maintenance  ;   ;   ;   2021-12-01  ;   ongoing ;   non_public
+Dept_C  ;   R5GN ;   8S2KMB7HR  ;   grant   ;   Resilient 5G Communication Networks  ;   IA2 ;   International Funding Agency 2 ;   2021-11-01  ;   2024-10-31  ; old
+Dept_D  ;   DTAM   ;   19F2134D   ;   grant   ;   Digital Twins for Advanced Manufacturing   ;   FMRR    ;   Federal Ministry for Reproducible Research  ;   2021-10-01  ;   2023-12-31   ; old
+Dept_A  ;   QAE2  ; 4628085586, 8612700456  ;   grant   ;   Quantum and AI-Enhanced Encryption   ; FMWW  ;   Federal Ministry of Wizards and Wisdom  ;   2019-07-01  ;   ongoing  ;
+Dept_A  ;   MUSFER    ;   2274851227   ;   grant   ;   Multi-Sensor Fusion for Robotics    ;   FMWW    ;   Federal Ministry of Wizards and Wisdom  ;   2021-01-01  ;   2023-12-31  ; old
+Dept_D  ;   EEBT  ;   289347353   ;   grant   ;   Energy-Efficient Blockchain Technologies ;   NRF ;   National Research Foundation  ;   2020-12-01  ;   ongoing ;
+Dept_D  ;   WIMT  ;   3703451068   ;   grant   ;   Wireless Interference Mitigation Tools   ;   FMRR    ;   Federal Ministry for Reproducible Research  ;   2019-10-01  ;   2022-09-30  ;    old
+Dept_A  ;   ASDP    ;   01I414688A   ;   grant   ;   AI for Scalable Data Privacy    ;   FMWW    ;   Federal Ministry of Wizards and Wisdom  ;   2019-10-01  ;   2022-09-30 ;   has_been_merged_into_sth_else
+Dept_B  ;   CEPI   ;   01525799A   ;   grant   ;   Cognitive Edge Processing Infrastructure    ;   FMWW    ;   Federal Ministry of Wizards and Wisdom  ;   2020-09-01  ;   2022-08-31 ;   old
+Dept_A  ;   HODOR    ;   359574067BB   ;   grant   ;   Hybrid Optimization for Distributed Open Resources  ;   FMWW    ;   Federal Ministry of Wizards and Wisdom  ;   2019-08-01  ;   2023-07-31 ;   has_been_merged_into_sth_else
+Dept_D  ;   MADGAINZ ;   ;   research unit   ;   Machine-Assisted Data Generation and Artificial Intelligence for Next-gen Zero-trust   ;   ;   ;   2019-07-01  ;   ongoing ;   non_public
